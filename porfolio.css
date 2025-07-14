@@ -1,0 +1,32 @@
+body {
+    background-color: #ff8dc4;
+    color: black;
+    font-size: 30px;
+    width: 100%;
+    font-family: 'Times New Roman', serif;
+}
+.home {
+    background-color: #c6186c;
+    text-align: center;
+    font-size: 35px;
+}
+nav {
+    font-size: 25px;
+    color: black;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+label {
+    width: 100px;
+}
+footer {
+    text-align: center;
+    background-color: #c6186c;
+}
+.projects {
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+  padding: 20px 10px;
+} 
